@@ -5,7 +5,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>br.ufg.inf</groupId>
+  <groupId>br.pcmj.inf</groupId>
   <artifactId>CalculoIMCRest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <!-- "war" indica que é um projeto web. -->

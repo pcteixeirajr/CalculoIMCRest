@@ -6,7 +6,7 @@ Calculando o Índice de massa corporal (IMC) com rest.
 
 ### Para fazer clone.
 
-`git clone https://github.com/mayconribeirocosta/CalculoIMCRest`
+`https://github.com/pcteixeirajr/provas.git`
 
 ### Para rodar com o Tomcat.
 
